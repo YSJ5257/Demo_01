@@ -9,8 +9,6 @@
 <body>
 	<form action="other.jsp" method="post">
 		<label>用户名</label>
-		<input type="text" name="uname" />
-		<input type="password" name="pwd"/>
 		<input type="submit" value="提交" />
 	</form>
 </body>
